@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/mnt/sda1/Andris/Programozas/cpp/test/pybind_test/pybind_example'
+make: Leaving directory '/mnt/sda1/Andris/Programozas/cpp/test/pybind_test/pybind_example'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
